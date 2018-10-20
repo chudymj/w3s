@@ -1,4 +1,5 @@
 body {background-color:LightBlue;}
-p {color:green; }
-h1 {color: red;}
-h2 {color: orange;}
+
+h1 {color: red; font-family: verdana; font-size: 3em}
+h2 {color: orange; font-family: verdana;}
+p {color:green; font-family: courier; font-size: 1em}
